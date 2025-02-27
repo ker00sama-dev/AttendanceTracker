@@ -7,7 +7,8 @@
 <h1 align="center" id="title">Attendance Tracker</h1>
 
 <p align="center">
-<meta property="og:image" content="https://socialify.git.ci/ker00sama-dev/AttendanceTracker/image?language=1&owner=1&name=1&stargazers=1&theme=dark" />
+<img src="https://socialify.git.ci/ker00sama-dev/AttendanceTracker/image?custom_description=&description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto" alt="AttendanceTracker" width="640" height="320" />
+<meta property="og:image" content="https://socialify.git.ci/ker00sama-dev/AttendanceTracker/image?custom_description=&description=1&font=Source+Code+Pro&forks=1&issues=1&language=1&name=1&owner=1&pulls=1&stargazers=1&theme=Auto" />
 <meta property="og:image:width" content="1280" />
 <meta property="og:image:height" content="640" />
 </p>
