@@ -1,0 +1,684 @@
+{
+  "(and :count more error)": "(و :count خطأ إضافي)",
+  "(and :count more errors)": "(و :count خطأ إضافي)|(و :count أخطاء إضافية)|(و :count أخطاء إضافية)",
+  "A decryption key is required.": "مطلوب مفتاح فك التشفير.",
+  "A new verification link has been sent to the email address you provided in your profile settings.": "تم إرسال رابط تحقق جديد إلى عنوان البريد الإلكتروني الذي قمت بتعيينه في إعدادات الملف الشخصي.",
+  "A new verification link has been sent to your email address.": "تم إرسال رابط تحقق جديد إلى بريدك الإلكتروني.",
+  "A specialized team from the El-Motatawera Academy": "فريق متخصص من المعهد العالي للدراسات المتطورة",
+  "A Timeout Occurred": "انتهت المهلة",
+  "Academy": "الأكاديمية",
+  "Accept": "موافقة",
+  "Accept Invitation": "قبول الدعوة",
+  "Accepted": "تمت الموافقة",
+  "Accordion": "الأكورديون",
+  "Account": "الحساب",
+  "Account Settings": "إعدادات الحساب",
+  "Action": "الإجراء",
+  "Actions": "الإجراءات",
+  "Add": "إضافة",
+  "Add :name": "إضافة :name",
+  "Add a new team member to your team, allowing them to collaborate with you.": "أضف عضوًا جديدًا إلى فريقك، مما يتيح لهم التعاون معك.",
+  "Add additional security to your account using two factor authentication.": "أضف أمانًا إضافيًا إلى حسابك باستخدام المصادقة الثنائية.",
+  "Add Product": "إضافة منتج",
+  "Add Team Member": "إضافة عضو للفريق",
+  "Add User": "إضافة مستخدم",
+  "Added.": "تمت الإضافة.",
+  "Address & Billing": "العنوان والفواتير",
+  "Admin": "مدير",
+  "admin": "مدير",
+  "Admin Panel": "لوحة التحكم",
+  "Administrator": "المدير",
+  "Administrator users can perform any action.": "المدراء بإمكانهم تنفيذ أي إجراء.",
+  "Advance": "متقدم",
+  "Advanced": "متقدم",
+  "Agree": "موافقة",
+  "Alerts": "التنبيهات",
+  "All Customer": "جميع العملاء",
+  "All Customers": "جميع العملاء",
+  "All of the people that are part of this team.": "جميع الأشخاص الذين هم جزء من هذا الفريق.",
+  "All rights reserved.": "جميع الحقوق محفوظة.",
+  "Already have an account?": "هل لديك حساب بالفعل؟",
+  "Already registered?": "لديك حساب مسبقا؟",
+  "Already Reported": "تم التبليغ مسبقاً",
+  "Analytics": "تحليلات",
+  "Apex Charts": "مخططات أبيكس",
+  "API Token": "رمز API",
+  "API Token Permissions": "أذونات رمز API",
+  "API Tokens": "رموز API",
+  "API tokens allow third-party services to authenticate with our application on your behalf.": "تسمح رموز API لخدمات الطرف الثالث بالمصادقة مع تطبيقنا نيابة عنك.",
+  "App Brand": "علامة التطبيق",
+  "Apps": "تطبيقات",
+  "Apps & Pages": "التطبيقات والصفحات",
+  "Archive": "أرشفة",
+  "Are you sure you want to delete this team? Once a team is deleted, all of its resources and data will be permanently deleted.": "هل أنت متأكد أنك تريد حذف هذا الفريق؟ بمجرد حذف الفريق ، سيتم حذف جميع مصادره وبياناته نهائيًا.",
+  "Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.": "هل ترغب بحذف حسابك بالتأكيد؟ بمجرد حذف حسابك، سيتم حذف جميع البيانات المتعلقة به نهائياً. الرجاء إدخال كلمة المرور الخاصة بك لتأكيد رغبتك في حذف حسابك بشكل دائم.",
+  "Are you sure you would like to delete this API token?": "هل أنت متأكد أنك تريد حذف رمز API المميز؟",
+  "Are you sure you would like to leave this team?": "هل أنت متأكد أنك تريد مغادرة هذا الفريق؟",
+  "Are you sure you would like to remove this person from the team?": "هل أنت متأكد أنك تريد إزالة هذا الشخص من الفريق؟",
+  "Article": "المقال",
+  "Assign": "تعيين",
+  "Associate": "ربط",
+  "Attach": "إرفاق",
+  "Authentications": "المصادقات",
+  "Avatar": "الصورة الرمزية",
+  "Bad Gateway": "بوابة غير صالحة",
+  "Bad Request": "طلب غير صالح",
+  "Badges": "الشارات",
+  "Bandwidth Limit Exceeded": "تم تجاوز حد النطاق الترددي",
+  "Basic": "أساسي",
+  "Basic Inputs": "مدخلات أساسية",
+  "Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.": "قبل المتابعة، هل يمكنك التحقق من بريدك الإلكتروني بالضغط على الرابط الذي أرسلناه لك الآن عبر البريد الإلكتروني؟ إذا لم يصلك البريد الإلكتروني، فيسعدنا أن نرسل لك بريداً إلكترونياً غيره بكل سرور.",
+  "Billing & Plans": "الفوترة والخطط",
+  "Blank": "فارغ",
+  "BlockUI": "منع واجهة المستخدم",
+  "Browse": "تصفح",
+  "Browser Sessions": "جلسات المتصفح",
+  "Business": "إدارة الأعمال",
+  "Business Information Systems": "نظم المعلومات",
+  "Buttons": "الأزرار",
+  "Calendar": "التقويم",
+  "Cancel": "إلغاء",
+  "Cards": "البطاقات",
+  "Carousel": "شريط التمرير",
+  "Categories": "الفئات",
+  "Category": "الفئة",
+  "Category List": "قائمة الفئات",
+  "ChartJS": "الرسم البياني شبيبة",
+  "Charts": "الرسوم البيانية",
+  "Charts & Maps": "الرسوم البيانية والخرائط",
+  "Chat": "الدردشة",
+  "Checkout": "السداد",
+  "Choose": "اختر",
+  "Choose :name": "اختر :name",
+  "Choose File": "اختر ملف",
+  "Choose Image": "اختر صورة",
+  "Click here to re-send the verification email.": "اضغط هنا لإعادة إرسال بريد التحقق.",
+  "Click to copy": "اضغط للنسخ",
+  "Client Closed Request": "أغلق العميل الطلب",
+  "Close": "إغلاق",
+  "Code": "الرمز",
+  "Collapse": "طي",
+  "Collapse All": "طي الكل",
+  "Collapsed menu": "القائمة المطوية",
+  "College Card ID": "رقم بطاقة الكلية يجب أن يكون صحيحًا لتسجيل الحضور.",
+  "College ID Number": "رقم بطاقة الكلية",
+  "College Year": "الفرقة الدراسية",
+  "college_card_id": "رقم بطاقة الكلية",
+  "Coming Soon": "قريبًا",
+  "Comment": "تعليق",
+  "Components": "المكونات",
+  "Computer Science": "علوم الحاسوب",
+  "Confirm": "تأكيد",
+  "Confirm Password": "تأكيد كلمة المرور",
+  "Conflict": "تعارض",
+  "Connect": "اتصال",
+  "Connection Closed Without Response": "تم إغلاق الاتصال دون استجابة",
+  "Connection Timed Out": "انتهت مهلة الاتصال",
+  "Connections": "الاتصالات",
+  "Container": "حاوية",
+  "Content nav + Sidebar": "شريط التنقل للمحتوى + الشريط الجانبي",
+  "Content navbar": "شريط التنقل للمحتوى",
+  "Continue": "استمرار",
+  "Course Details": "تفاصيل الدورة",
+  "Cover": "الغلاف",
+  "Create": "إنشاء",
+  "Create :name": "إضافة :name",
+  "Create a new team to collaborate with others on projects.": "أنشئ فريقًا جديدًا للتعاون مع الآخرين في المشاريع.",
+  "Create Account": "إنشاء حساب",
+  "Create an account": "إنشاء حساب",
+  "Create API Token": "إنشاء رمز API",
+  "Create Deal": "إنشاء صفقة",
+  "Create New Team": "إنشاء فريق جديد",
+  "Create Team": "إنشاء فريق",
+  "Create your student account and access a world of opportunities.": "قم بإنشاء حساب الطالب الخاص بك وابدأ في استكشاف عالم من الفرص.",
+  "Created": "تم الإنشاء",
+  "Created At": "تاريخ الإنشاء",
+  "Created.": "تم الإنشاء.",
+  "Creator": "المنشئ",
+  "CRM": "إدارة علاقات العملاء",
+  "Current Password": "كلمة المرور الحالية",
+  "Current Team ID": "معرّف الفريق الحالي",
+  "Custom Options": "خيارات مخصصة",
+  "Customer": "العميل",
+  "Customer Details": "تفاصيل العميل",
+  "Dashboard": "لوحة التحكم",
+  "Dashboards": "لوحات القيادة",
+  "Datatables": "جداول البيانات",
+  "Delete": "حذف",
+  "Delete :name": "حذف :name",
+  "Delete Account": "حذف الحساب",
+  "Delete API Token": "حذف رمز API",
+  "Delete Team": "حذف الفريق",
+  "Department": "القسم",
+  "Department of Business Information Systems.": "قسم نظم المعلومات.",
+  "Department of Business.": "قسم إدارة الأعمال.",
+  "Department of Computer Science.": "قسم علوم الحاسوب.",
+  "Detach": "إلغاء الإرفاق",
+  "Details": "التفاصيل",
+  "Disable": "تعطيل",
+  "Discard": "تجاهل",
+  "Documentation": "الوثائق",
+  "Done": "مكتمل",
+  "Done.": "تم.",
+  "Down": "أسفل",
+  "Drag & Drop": "اسحب وأفلت",
+  "Dropdowns": "القوائم المنسدلة",
+  "Duplicate": "نسخ",
+  "Duplicate :name": "نسخ :name",
+  "eCommerce": "التجارة الإلكترونية",
+  "Edit": "تعديل",
+  "Edit :name": "تعديل :name",
+  "Edit Profile": "تعديل الملف الشخصي",
+  "Editor": "المحرر",
+  "Editor users have the ability to read, create, and update.": "المحررون لديهم القدرة على القراءة والإنشاء والتحديث.",
+  "Editors": "المحررين",
+  "EL Haram": "الهرم",
+  "EL Motatawera": "المتطورة",
+  "ELMotatawera": "المتطورة",
+  "Email": "البريد الإلكتروني",
+  "Email Address": "البريد الإلكتروني",
+  "Email Password Reset Link": "رابط إعادة تعيين كلمة مرور عبر البريد الإلكتروني",
+  "Enable": "تفعيل",
+  "Encrypted environment file already exists.": "ملف البيئة المشفر موجود بالفعل.",
+  "Encrypted environment file not found.": "لم يتم العثور على ملف البيئة المشفرة.",
+  "Ensure your account is using a long, random password to stay secure.": "تأكد من أن حسابك يستخدم كلمة مرور طويلة وعشوائية للبقاء آمنًا.",
+  "Enter a strong password": "أدخل كلمة مرور قوية",
+  "Enter your College Card ID": "أدخل رقم بطاقة الكلية",
+  "Enter your email": "أدخل بريدك الإلكتروني",
+  "Enter your email address": "أدخل عنوان بريدك الإلكتروني",
+  "Enter your full name": "أدخل اسمك الكامل",
+  "Enter your phone number": "أدخل رقم هاتفك",
+  "Environment file already exists.": "ملف البيئة موجود بالفعل.",
+  "Environment file not found.": "لم يتم العثور على ملف البيئة.",
+  "Error": "خطأ",
+  "errors": "أخطاء",
+  "Expand": "توسيع",
+  "Expand All": "توسيع الكل",
+  "Expectation Failed": "فشل التوقع",
+  "Explanation": "توضيح",
+  "Export": "تصدير",
+  "Export :name": "تصدير :name",
+  "Extended UI": "واجهة المستخدم الممتدة",
+  "Extensions": "الامتدادات",
+  "Extras": "إضافات",
+  "Failed Dependency": "فشل التبعية",
+  "FAQ": "الأسئلة الشائعة",
+  "File": "ملف",
+  "File Upload": "تحميل الملف",
+  "Files": "ملفات",
+  "Finish enabling two factor authentication.": "الانتهاء من تمكين المصادقة الثنائية.",
+  "First Year": "الفرقة الأولى",
+  "First year of college studies.": "السنة الأولى من الدراسة الجامعية.",
+  "Fleet": "الأسطول",
+  "Fluid": "مرونة",
+  "Fontawesome": "الخطوط الرائعة",
+  "Footer": "التذييل",
+  "For your security, please confirm your password to continue.": "لحمايتك، يرجى تأكيد كلمة المرور الخاصة بك للمتابعة.",
+  "Forbidden": "محظور",
+  "Forgot Password": "نسيت كلمة المرور",
+  "Forgot Password?": "هل نسيت كلمة المرور؟",
+  "Forgot your password?": "نسيت كلمة المرور؟",
+  "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.": "نسيت كلمة المرور؟ لا توجد مشكلة. ما عليك سوى إخبارنا بعنوان بريدك الإلكتروني وسنرسل لك عبره رابط إعادة تعيين كلمة المرور الذي سيسمح لك باختيار كلمة مرور جديدة.",
+  "Form Elements": "عناصر النموذج",
+  "Form Layouts": "تخطيطات النموذج",
+  "Form Validation": "التحقق من النموذج",
+  "Form Wizard": "معالج النموذج",
+  "Forms": "نماذج",
+  "Forms & Tables": "النماذج والجداول",
+  "Found": "تم العثور",
+  "Fourth Year": "الفرقة الرابعة",
+  "Fourth year of college studies.": "السنة الرابعة من الدراسة الجامعية.",
+  "Front Pages": "الصفحات الأمامية",
+  "Full Name": "الاسم بالكامل (رباعي عربي)",
+  "Fullscreen": "شاشة كاملة",
+  "Gateway Timeout": "مهلة البوابة",
+  "Go Home": "الرئيسية",
+  "Go to page :page": "الإنتقال إلى الصفحة :page",
+  "Gone": "ذهب",
+  "Great! You have accepted the invitation to join the :team team.": "رائع! لقد قبلت الدعوة للإنضمام إلى فريق :team.",
+  "Hello!": "أهلاً بك!",
+  "Help Center": "مركز المساعدة",
+  "Hide": "إخفاء",
+  "Hide :name": "إخفاء :name",
+  "Home": "الرئيسية",
+  "Horizontal": "أفقي",
+  "Horizontal Form": "نموذج أفقي",
+  "HTTP Version Not Supported": "إصدار HTTP غير مدعوم",
+  "I agree to the": "أوافق على",
+  "I agree to the :terms_of_service and :privacy_policy": "أوافق على :terms_of_service و :privacy_policy",
+  "I'm a teapot": "أنا إبريق الشاي",
+  "Icons": "الرموز",
+  "id": "المعرف",
+  "ID": "المعرف",
+  "If necessary, you may log out of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.": "إذا لزم الأمر، يمكنك تسجيل الخروج من جميع جلسات المتصفح الأخرى عبر جميع أجهزتك. بعض جلساتك الأخيرة مذكورة أدناه؛ ومع ذلك، قد لا تكون هذه القائمة شاملة. إذا شعرت أنه تم اختراق حسابك، فيجب عليك أيضًا تحديث كلمة المرور الخاصة بك.",
+  "If you already have an account, you may accept this invitation by clicking the button below:": "إذا كان لديك حساب بالفعل، فيمكنك قبول هذه الدعوة بالضغط على الزر أدناه:",
+  "If you did not create an account, no further action is required.": "إذا لم تقم بإنشاء حساب ، فلا يلزم اتخاذ أي إجراء آخر.",
+  "If you did not expect to receive an invitation to this team, you may discard this email.": "إذا لم تتوقع تلقي دعوة إلى هذا الفريق، فيمكنك تجاهل هذا البريد الإلكتروني.",
+  "If you did not request a password reset, no further action is required.": "إذا لم تقم بطلب استعادة كلمة المرور، لا تحتاج القيام بأي إجراء.",
+  "If you do not have an account, you may create one by clicking the button below. After creating an account, you may click the invitation acceptance button in this email to accept the team invitation:": "إذا لم يكن لديك حساب، يمكنك إنشاء حساب بالضغط على الزر أدناه. بعد إنشاء حساب، يمكنك الضغط على زر قبول الدعوة في هذا البريد الإلكتروني لقبول دعوة الفريق:",
+  "If you're having trouble clicking the \":actionText\" button, copy and paste the URL below\ninto your web browser:": "إذا كنت تواجه مشكلة في النقر على الزر \":actionText \"، يمكنك نسخ عنوان URL أدناه\n وألصقه في متصفح الويب:",
+  "IM Used": "IM مستخدمة",
+  "Image": "صورة",
+  "Impersonate": "اقتباس الهوية",
+  "Impersonation": "الاقتباس",
+  "Import": "استيراد",
+  "Import :name": "استيراد :name",
+  "Input groups": "مجموعات الإدخال",
+  "Instructor": "معيد",
+  "instructor": "معيد",
+  "Insufficient Storage": "مساحة تخزين غير كافية",
+  "Internal Server Error": "خطأ داخلي في الخادم",
+  "Introduction": "مقدمة",
+  "Invalid filename.": "اسم الملف غير صالح.",
+  "Invalid JSON was returned from the route.": "تم إرجاع JSON غير صالح من المسار.",
+  "Invalid SSL Certificate": "شهادة SSL غير صالحة",
+  "Invoice": "الفاتورة",
+  "Join us today for a brighter future! 🎓": "انضم إلينا اليوم لمستقبل أكثر إشراقًا! 🎓",
+  "Kanban": "كانبان",
+  "Landing": "الهبوط",
+  "Laravel Example": "مثال لارافيل",
+  "Last active": "آخر نشاط",
+  "Last used": "آخر استخدام",
+  "Layouts": "التخطيطات",
+  "Leaflet Maps": "خرائط النشرة",
+  "Leave": "مغادرة",
+  "Leave Team": "مغادرة الفريق",
+  "lecturer": "محاضر",
+  "Lecturer": "محاضر",
+  "Lecturer Name": "اسم المحاضر",
+  "length": "الطول",
+  "Length Required": "المدة المطلوبة",
+  "License": "الرخصة",
+  "Like": "إعجاب",
+  "List": "القائمة",
+  "List Groups": "مجموعات القوائم",
+  "Load": "تحميل",
+  "Localize": "اللغة",
+  "Location": "موقع",
+  "Locations": "المواقع",
+  "Locked": "مقفل",
+  "Log In": "تسجيل الدخول",
+  "Log in": "تسجيل الدخول",
+  "Log Out": "تسجيل الخروج",
+  "Log Out Other Browser Sessions": "تسجيل الخروج من جلساتك على المتصفحات الأخرى",
+  "Login": "تسجيل الدخول",
+  "Logistics": "اللوجستية",
+  "Logout": "تسجيل الخروج",
+  "Loop Detected": "تم الكشف عن حلقة",
+  "Made by": "مصنوع بواسطة",
+  "Maintenance Mode": "نمط الصيانة",
+  "Manage Account": "إدارة الحساب",
+  "Manage and log out your active sessions on other browsers and devices.": "إدارة جلساتك النشطة والخروج منها على المتصفحات والأجهزة الأخرى.",
+  "Manage API Tokens": "إدارة رموز API",
+  "Manage Reviews": "إدارة التقييمات",
+  "Manage Role": "إدارة الصلاحيات",
+  "Manage Team": "إدارة الفريق",
+  "Media Player": "مشغل الوسائط",
+  "Menu": "القائمة",
+  "Method Not Allowed": "الطريقة غير مسموحة",
+  "Misc": "متنوع",
+  "Miscellaneous": "متنوع",
+  "Misdirected Request": "طلب توجيه خاطئ",
+  "Modal Examples": "أمثلة على النماذج",
+  "Modals": "النماذج",
+  "More Themes": "المزيد من القوالب",
+  "Moved Permanently": "انتقل بشكل دائم",
+  "Multi-Status": "حالات متعددة",
+  "Multi-steps": "خطوات متعددة",
+  "Multiple Choices": "خيارات متعددة",
+  "My Course": "دورتي",
+  "My Profile": "ملفي الشخصي",
+  "Name": "الاسم",
+  "Navbar": "شريط التنقل",
+  "Network Authentication Required": "مصادقة الشبكة المطلوبة",
+  "Network Connect Timeout Error": "خطأ مهلة الاتصال بالشبكة",
+  "Network Read Timeout Error": "خطأ في مهلة قراءة الشبكة",
+  "New": "جديد",
+  "New :name": "إضافة :name",
+  "New on our platform?": "جديد على منصتنا؟",
+  "New Password": "كلمة مرور جديدة",
+  "No": "ﻻ",
+  "No Content": "لا يوجد محتوى",
+  "Non-Authoritative Information": "معلومات غير موثوق بها",
+  "Not Acceptable": "غير مقبول",
+  "Not Authorized": "غير مصرح",
+  "Not Extended": "غير موسعة",
+  "Not Found": "غير متوفر",
+  "Not Implemented": "غير منفذة",
+  "Not Modified": "غير معدل",
+  "Notifications": "الإشعارات",
+  "Number College ID": "رقم بطاقة الكلية",
+  "Numbered": "مُرقّم",
+  "of": "من",
+  "Offcanvas": "القائمة الجانبية",
+  "OK": "حسنا",
+  "Once a team is deleted, all of its resources and data will be permanently deleted. Before deleting this team, please download any data or information regarding this team that you wish to retain.": "بمجرد حذف الفريق، سيتم حذف جميع مصادره وبياناته نهائيًا. قبل حذف هذا الفريق ، يرجى تنزيل أي بيانات أو معلومات بخصوص هذا الفريق ترغب في الاحتفاظ بها.",
+  "Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.": "بمجرد حذف حسابك، سيتم حذف جميع مصادره وبياناته نهائياً. قبل حذف حسابك، يرجى تنزيل أي بيانات أو معلومات ترغب في الاحتفاظ بها.",
+  "Open": "فتح",
+  "Open in a current window": "فتح في النافذة الحالية",
+  "Open in a new window": "افتح في نافذة جديدة",
+  "Open in a parent frame": "فتح في إطار الأصل",
+  "Open in the topmost frame": "افتح في الإطار العلوي",
+  "Open on the website": "فتح على الموقع",
+  "or": "أو",
+  "Order": "الطلب",
+  "Order Details": "تفاصيل الطلب",
+  "Order List": "قائمة الطلبات",
+  "Origin Is Unreachable": "لا يمكن الوصول إلى المنشأ",
+  "Overview": "نظرة عامة",
+  "Page Expired": "الصفحة منتهية الصلاحية",
+  "Pages": "الصفحات",
+  "Pagination & Breadcrumbs": "الترقيم وفتات الخبز",
+  "Pagination Navigation": "التنقل بين الصفحات",
+  "Partial Content": "محتوى جزئي",
+  "Password": "كلمة المرور",
+  "Password must be more than 6 characters": "يجب أن تكون كلمة المرور أكثر من 6 أحرف",
+  "Password must be more than 6 characters and contain at least one number": "يجب أن تكون كلمة المرور أكثر من 6 أحرف وتحتوي على رقم واحد على الأقل",
+  "Payload Too Large": "الحمولة كبيرة جدا",
+  "Payment": "الدفع",
+  "Payment Required": "مطلوب الدفع",
+  "Payments": "المدفوعات",
+  "Pending Team Invitations": "دعوات معلقة للإنضمام لفريق",
+  "Perfect Scrollbar": "شريط التمرير المثالي",
+  "Permanent Redirect": "إعادة توجيه دائمة",
+  "Permanently delete this team.": "احذف هذا الفريق بشكل دائم.",
+  "Permanently delete your account.": "احذف حسابك بشكل دائم.",
+  "Permission": "الإذن",
+  "Permissions": "الأذونات",
+  "Phone Number": "رقم الهاتف",
+  "Phone Number (e.g., 01000000000)": "رقم الهاتف (مثال: 01000000000)",
+  "Photo": "صورة",
+  "Pickers": "المنتقين",
+  "Please click the button below to verify your email address.": "يرجى النقر على الزر أدناه للتحقق من عنوان بريدك الإلكتروني.",
+  "Please confirm access to your account by entering one of your emergency recovery codes.": "يرجى تأكيد الوصول إلى حسابك عن طريق إدخال أحد رموز الاسترداد المخصصة لحالات الطوارئ.",
+  "Please confirm access to your account by entering the authentication code provided by your authenticator application.": "يرجى تأكيد الوصول إلى حسابك عن طريق إدخال رمز المصادقة المقدم من تطبيق المصادقة الخاص بك.",
+  "Please copy your new API token. For your security, it won't be shown again.": "يرجى نسخ رمز API الجديد الخاص بك. من أجل أمانك، لن يتم عرضه مرة أخرى.",
+  "Please enter your password to confirm you would like to log out of your other browser sessions across all of your devices.": "الرجاء إدخال كلمة المرور الخاصة بك لتأكيد رغبتك في تسجيل الخروج من جلسات المتصفح الأخرى عبر جميع أجهزتك.",
+  "Please provide the email address of the person you would like to add to this team.": "يرجى كتابة عنوان البريد الإلكتروني للشخص الذي ترغب بإضافته إلى هذا الفريق.",
+  "Please sign-in to your account": "يرجى تسجيل الدخول إلى حسابك",
+  "Precondition Failed": "فشل الشرط المسبق",
+  "Precondition Required": "الشرط المسبق مطلوب",
+  "Preview": "معاينة",
+  "Price": "السعر",
+  "Pricing": "التسعير",
+  "Privacy Policy": "سياسة الخصوصية",
+  "privacy policy": "سياسة الخصوصية",
+  "Processing": "جاري المعالجة",
+  "Product List": "قائمة المنتجات",
+  "Products": "المنتجات",
+  "Professor": "دكتور",
+  "professor": "دكتور",
+  "Profile": "الملف الشخصي",
+  "Profile Information": "معلومات الملف الشخصي",
+  "Profile Photo Path": "مسار صورة الملف الشخصي",
+  "Progress": "التقدم",
+  "Projects": "المشاريع",
+  "Property Listing": "قائمة العقارات",
+  "Proxy Authentication Required": "مصادقة الوكيل مطلوبة",
+  "QR Code Expiration": "انتهاء صلاحية رمز الاستجابة السريعة",
+  "Railgun Error": "خطأ Railgun",
+  "Range Not Satisfiable": "نطاق غير مقبول",
+  "Re-enter your password": "أعد إدخال كلمة المرور",
+  "Record": "سجل",
+  "Recovery Code": "رمز الاسترداد",
+  "Referrals": "الإحالات",
+  "Regards,": "مع التحية،",
+  "Regenerate Recovery Codes": "إعادة إنشاء رموز الاسترداد",
+  "Register": "تسجيل",
+  "Remember me": "تذكرني",
+  "Remember Me": "تذكرني",
+  "Remove": "حذف",
+  "Remove Photo": "حذف الصورة",
+  "Remove Team Member": "حذف عضو الفريق",
+  "Request Header Fields Too Large": "حقول عنوان الطلب كبيرة جدا",
+  "Request Timeout": "انتهت مهلة الطلب",
+  "Resend Verification Email": "إعادة ارسال بريد التحقق",
+  "Reset Content": "إعادة تعيين المحتوى",
+  "Reset Password": "استعادة كلمة المرور",
+  "Reset Password Notification": "تنبيه استعادة كلمة المرور",
+  "Restore": "استعادة",
+  "Restore :name": "استعادة :name",
+  "results": "نتيجة",
+  "Retry With": "إعادة المحاولة مع",
+  "Role": "صلاحية",
+  "role": "الصلاحية",
+  "Roles": "الأدوار",
+  "Roles & Permissions": "الأدوار والأذونات",
+  "Save": "حفظ",
+  "Save & Close": "حفظ وإغلاق",
+  "Save & Return": "حفظ وعودة",
+  "Save :name": "حفظ :name",
+  "Saved.": "تم الحفظ.",
+  "Search": "بحث",
+  "Search :name": "بحث :name",
+  "Second Year": "الفرقة الثانية",
+  "Second year of college studies.": "السنة الثانية من الدراسة الجامعية.",
+  "Security": "الأمان",
+  "See Other": "انظر الآخر",
+  "Select": "اختر",
+  "Select & Tags": "اختيار وعلامات",
+  "Select A New Photo": "اختيار صورة جديدة",
+  "Select All": "اختر الكل",
+  "Select your college year": "اختر الفرقتك الدراسية",
+  "Select your department": "اختر القسم الخاص بك",
+  "Send": "إرسال",
+  "Server Error": "خطأ في الإستضافة",
+  "Service Unavailable": "الخدمة غير متوفرة",
+  "Session Has Expired": "انتهت الجلسة",
+  "Settings": "إعدادات",
+  "Setup Key": "مفتاح الإعداد",
+  "Shipping & Delivery": "الشحن والتوصيل",
+  "Show": "عرض",
+  "Show :name": "عرض :name",
+  "Show All": "عرض الكل",
+  "Show Recovery Codes": "إظهار رموز الاسترداد",
+  "Showing": "عرض",
+  "Sign In": "تسجيل الدخول",
+  "Sign in": "تسجيل الدخول",
+  "Sign in here": "تسجيل الدخول هنا",
+  "Sign in with Google": "تسجيل الدخول باستخدام جوجل",
+  "Sign Up": "تسجيل",
+  "Sign up with Google": "التسجيل باستخدام جوجل",
+  "Sliders": "المنزلقات",
+  "Solve": "حل",
+  "Spinners": "الدوائر",
+  "SSL Handshake Failed": "فشلت مصافحة SSL",
+  "Star Ratings": "تقييم النجوم",
+  "Start": "بدء",
+  "Start Time": "وقت البدء",
+  "Statistics": "الإحصائيات",
+  "Sticky Actions": "إجراءات لاصقة",
+  "Stop": "إيقاف",
+  "Store Details": "تفاصيل المتجر",
+  "Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.": "قم بالاحتفاظ برموز الاسترداد هذه في مكان آمن. يمكن استخدامها لاستعادة الوصول إلى حسابك في حالة فقدان جهاز المصادقة الثنائية الخاص بك.",
+  "Student": "طالب",
+  "Student Registration": "تسجيل الطالب",
+  "Subject": "المادة",
+  "Subjects": "المواد",
+  "Submit": "إرسال",
+  "Subscribe": "اشتراك",
+  "Support": "الدعم",
+  "SweetAlert2": "سويت اليرت 2",
+  "Switch": "تحويل",
+  "Switch Teams": "تبديل الفرق",
+  "Switch To Role": "التحويل إلى صلاحية",
+  "Switches": "المفاتيح",
+  "Switching Protocols": "تبديل البروتوكولات",
+  "Tabler": "طاولة",
+  "Tables": "الجداول",
+  "Tabs & Pills": "ألسنة وأقراص",
+  "Tag": "علامة",
+  "Tags": "العلامات",
+  "Team Details": "تفاصيل الفريق",
+  "Team Invitation": "دعوة الفريق",
+  "Team Members": "أعضاء الفريق",
+  "Team Name": "اسم الفريق",
+  "Team Owner": "مالك الفريق",
+  "Team Settings": "إعدادات الفريق",
+  "Teams": "الفرق",
+  "Temporary Redirect": "إعادة توجيه مؤقتة",
+  "terms": "الشروط",
+  "Terms of Service": "شروط الاستخدام",
+  "Text Divider": "مقسم النص",
+  "The :attribute must be a valid role.": ":Attribute يجب أن تكون صلاحية فاعلة.",
+  "The :attribute must be at least :length characters and contain at least one number.": ":Attribute يجب أن يتألف على الأقل من :length خانة وأن تحتوي على رقم واحد على الأقل.",
+  "The :attribute must be at least :length characters and contain at least one special character and one number.": ":Attribute يجب أن يتألف على الأقل من :length خانة وأن يحتوي على الأقل على حرف خاص ورقم.",
+  "The :attribute must be at least :length characters and contain at least one special character.": ":Attribute يجب أن يتألف على الأقل من :length خانة وأن يحتوي على حرف خاص واحد على الأقل.",
+  "The :attribute must be at least :length characters and contain at least one uppercase character and one number.": ":Attribute يجب أن يتألف على الأقل من :length خانة وأن يحتوي على حرف كبير واحد ورقم واحد على الأقل.",
+  "The :attribute must be at least :length characters and contain at least one uppercase character and one special character.": ":Attribute يجب أن يتألف على الأقل من :length خانة وأن يحتوي على حرف كبير واحد وحرف خاص واحد على الأقل.",
+  "The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.": ":Attribute يجب أن يتألف على الأقل من :length خانة وأن يحتوي على حرف كبير واحد، رقم واحد، وحرف خاص واحد على الأقل.",
+  "The :attribute must be at least :length characters and contain at least one uppercase character.": ":Attribute يجب أن يتألف على الأقل من :length خانة وأن يحتوي على حرف كبير واحد على الأقل.",
+  "The :attribute must be at least :length characters.": ":Attribute يجب أن يتألف على الأقل من :length خانة.",
+  "The College Card ID is required.": "رقم بطاقة الكلية مطلوب.",
+  "The College Card ID must be a valid number.": "رقم بطاقة الكلية يجب أن يكون رقمًا صحيحًا.",
+  "The College Card ID must be unique.": "رقم بطاقة الكلية يجب أن يكون فريدًا.",
+  "The given data was invalid.": "البيانات المدخلة غير صالحة.",
+  "The password is incorrect.": "كلمة المرور غير صحيحة.",
+  "The phone number must be a valid Egyptian mobile number (e.g., 01012345678).": "يجب أن يكون رقم الهاتف رقمًا مصريًا صالحًا (مثال: 01012345678).",
+  "The provided password does not match your current password.": "كلمة المرور التي قمت بإدخالها لا تطابق كلمة المرور الحالية.",
+  "The provided password was incorrect.": "كلمة المرور التي قمت بإدخالها غير صحيحة.",
+  "The provided two factor authentication code was invalid.": "كود المصادقة الثنائية الذي قمت بإدخاله غير صالح.",
+  "The provided two factor recovery code was invalid.": "كود استرداد المصادقة الثنائية الذي قمت بإدخاله غير صالح.",
+  "The response is not a streamed response.": "الاستجابة ليست استجابة متدفقة.",
+  "The response is not a view.": "الاستجابة ليست صفحة عرض.",
+  "The team's name and owner information.": "اسم الفريق ومعلومات المالك.",
+  "These people have been invited to your team and have been sent an invitation email. They may join the team by accepting the email invitation.": "تمت دعوة هؤلاء الأشخاص إلى فريقك وتم إرسال دعوة عبر البريد الإلكتروني إليهم. يمكنهم الإنضمام إلى الفريق عن طريق قبول دعوة البريد الإلكتروني.",
+  "Third Year": "الفرقة الثالثة",
+  "Third year of college studies.": "السنة الثالثة من الدراسة الجامعية.",
+  "This action is unauthorized.": "هذا الإجراء غير مصرح به.",
+  "This device": "هذا الجهاز",
+  "This is a secure area of the application. Please confirm your password before continuing.": "هذه منطقة آمنة للتطبيق. يرجى تأكيد كلمة المرور الخاصة بك قبل المتابعة.",
+  "This password does not match our records.": "كلمة المرور لا تتطابق مع سجلاتنا.",
+  "This password reset link will expire in :count minutes.": "ستنتهي صلاحية رابط استعادة كلمة المرور خلال :count دقيقة.",
+  "This phone number is already registered.": "هذا الرقم مسجل بالفعل.",
+  "This QR code will expire 30 minutes after the lecture starts.": "سينتهي صلاحية رمز الاستجابة السريعة بعد 30 دقيقة من بدء المحاضرة.",
+  "This user already belongs to the team.": "هذا المستخدم ينتمي بالفعل إلى الفريق.",
+  "This user has already been invited to the team.": "تمت دعوة هذا المستخدم بالفعل إلى الفريق.",
+  "Timeline": "الجدول الزمني",
+  "to": "إلى",
+  "To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.": "لإنهاء تمكين المصادقة الثنائية، قم بسمح رمز الاستجابة السريعة التالي باستخدام تطبيق المصادقة بهاتفك أو قم بإدخال مفتاح الإعداد وأدخل رمز OTP الذي تم إنشاؤه.",
+  "Toasts": "رسائل تنبيه",
+  "Toggle navigation": "إظهار/إخفاء القائمة",
+  "Token Name": "اسم الرمز",
+  "Too Early": "مبكر جدا",
+  "Too Many Requests": "طلبات كثيرة جدًا",
+  "Tooltips & Popovers": "تلميحات وتلقيات",
+  "Topic": "عنوان",
+  "Topics": "المواضيع",
+  "Tour": "جولة",
+  "Translate": "ترجمة",
+  "Translate It": "ترجمة",
+  "Treeview": "عرض الشجرة",
+  "Two Factor Authentication": "المصادقة الثنائية",
+  "Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.": "لقد تم تمكين المصادقة الثنائية لحسابك. قم بمسح رمز الاستجابة السريعة التالي باستخدام تطبيق المصادقة بهاتفك أو قم بإدخال مفتاح الإعداد.",
+  "Two Factor Confirmed At": "تأكيد المصادقة الثنائية في",
+  "Two Factor Recovery Codes": "أكواد استرجاع المصادقة الثنائية",
+  "Two Factor Secret": "رمز المصادقة الثنائية",
+  "Two Steps": "خطوتين",
+  "Typography": "الأسلوب الطباعي",
+  "Unauthorized": "غير مصرّح",
+  "Unavailable For Legal Reasons": "غير متوفر لأسباب قانونية",
+  "Under Maintenance": "تحت الصيانة",
+  "Unknown": "غير معروف",
+  "Unknown Error": "خطأ غير معروف",
+  "Unpack": "فك الضغط",
+  "Unprocessable Entity": "كيان غير قابل للمعالجة",
+  "Unsubscribe": "إلغاء الاشتراك",
+  "Unsupported Media Type": "نوع وسائط غير مدعوم",
+  "Up": "أعلى",
+  "Update": "تحديث",
+  "Update :name": "تحديث :name",
+  "Update Password": "تحديث كلمة المرور",
+  "Update your account's profile information and email address.": "قم بتحديث معلومات ملفك الشخصي وبريدك الإلكتروني.",
+  "Updated At": "تاريخ التعديل",
+  "Upgrade Required": "الترقية مطلوبة",
+  "URI Too Long": "URI طويلة جدا",
+  "Use a recovery code": "استخدم رمز الاسترداد",
+  "Use an authentication code": "استخدم رمز المصادقة",
+  "Use Proxy": "استخدام الوكيل",
+  "User": "مستخدم",
+  "User interface": "واجهة المستخدم",
+  "User Management": "إدارة المستخدمين",
+  "User Profile": "الملف الشخصي للمستخدم",
+  "Users": "المستخدمين",
+  "Variant Also Negotiates": "البديل يتفاوض أيضا",
+  "Verify Email": "التحقق من البريد الإلكتروني",
+  "Verify Email Address": "التحقق من عنوان البريد الإلكتروني",
+  "Vertical": "رأسي",
+  "Vertical Form": "نموذج عمودي",
+  "View": "عرض",
+  "View :name": "عرض :name",
+  "We were unable to find a registered user with this email address.": "لم نتمكن من العثور على مستخدم مسجل بهذا البريد الإلكتروني.",
+  "Web Server is Down": "خادم الويب متوقف",
+  "Welcome to :templateName! 👋": "مرحبًا بك في :templateName! 👋",
+  "When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.": "عند تمكين المصادقة الثنائية، ستتم مطالبتك برمز آمن وعشوائي أثناء المصادقة. يمكنك الحصول على هذا الرمز من تطبيق Google Authenticator بهاتفك.",
+  "Whoops!": "عذراً!",
+  "Whoops! Something went wrong.": "عذرًا! هناك خطأ ما.",
+  "Without menu": "بدون قائمة",
+  "Without navbar": "بدون شريط التنقل",
+  "Wizard Examples": "أمثلة على الساحر",
+  "Yes": "نعم",
+  "You are receiving this email because we received a password reset request for your account.": "لقد استلمت هذا الإيميل لأننا استقبلنا طلباً لاستعادة كلمة مرور حسابك.",
+  "You have been invited to join the :team team!": "لقد تمت دعوتك للإنضمام إلى فريق :team!",
+  "You have enabled two factor authentication.": "لقد قمت بتمكين المصادقة الثنائية.",
+  "You have not enabled two factor authentication.": "لم تقم بتمكين المصادقة الثنائية.",
+  "You may accept this invitation by clicking the button below:": "يمكنك قبول هذه الدعوة بالضغط على الزر أدناه:",
+  "You may delete any of your existing tokens if they are no longer needed.": "يمكنك حذف أي من الرموز المميزة الموجودة لديك إذا لم تعد هناك حاجة إليها.",
+  "You may not delete your personal team.": "لا يمكنك حذف فريقك الشخصي.",
+  "You may not leave a team that you created.": "لا يمكنك مغادرة الفريق الذي أنشأته.",
+  "Your email address is unverified.": "لم يتم التحقق من عنوان بريدك الإلكتروني.",
+  "Enter the topic of the lecture": "أدخل موضوع المحاضرة",
+  "Select a subject": "اختر مادة",
+  "Lecture not found.": "المحاضرة غير موجودة.",
+  "User not found.": "المستخدم غير موجود.",
+  "Attendance scan time exceeded. You cannot scan after 1 hour.": "انتهت مدة تسجيل الحضور. لا يمكن التسجيل بعد ساعة واحدة.",
+  "Only students can mark attendance.": "فقط الطلاب يمكنهم تسجيل الحضور.",
+  "Error in doAttend: :message": "خطأ في تسجيل الحضور: :message",
+  "An error occurred while marking attendance: :message": "حدث خطأ أثناء تسجيل الحضور: :message",
+  "Attendance marked successfully.": "تم تسجيل الحضور بنجاح.",
+  "Lecture": "المحاضرة",
+  "Lectures": "المحاضرات",
+  "Lecture Details": "تفاصيل المحاضرة",
+  "Scan QR to Attend": "مسح رمز الاستجابة السريعة للحضور",
+  "Attendance": "الحضور",
+  "Attendances": "الحضور",
+  "Total subjects created": "إجمالي المواد المنشأة",
+  "Total lectures created": "إجمالي المحاضرات المنشأة",
+  "Total students": "إجمالي الطلاب",
+  "Total Lectures": "إجمالي المحاضرات",
+  "Total attendances": "إجمالي الحضور",
+  "Total Subjects": "إجمالي المواد",
+  "Total Attendances": "إجمالي الحضور",
+  "Attendances Today": "الحضور اليوم",
+  "Attendances This Month": "الحضور هذا الشهر",
+  "Total attendances recorded for your lectures": "إجمالي الحضور المسجلة لمحاضراتك.",
+  "Attendances recorded today" : "الحضور المسجلة اليوم",
+  "Attendances recorded this month" : "الحضور المسجلة هذا الشهر",
+  "Verify your email ✉️": "قم بتأكيد بريدك الإلكتروني ✉️",
+  "A new verification link has been sent to the email address you provided during registration.": "تم إرسال رابط تحقق جديد إلى البريد الإلكتروني الذي قمت بتقديمه أثناء التسجيل.",
+  "Account activation link sent to your email address:": "تم إرسال رابط تفعيل الحساب إلى بريدك الإلكتروني:",
+  "Please follow the link inside to continue.": "يرجى اتباع الرابط الموجود بالداخل للمتابعة.",
+  "Click here to request another": "انقر هنا لطلب آخر",
+  "student": "طالب",
+  "Attendance recorded successfully!": "تم تسجيل الحضور بنجاح!",
+  "You have already marked attendance.": "لقد قمت بتسجيل الحضور بالفعل.",
+  "Attend Rate": "نسبة الحضور",
+  "Cache cleared successfully!": "تم مسح الذاكرة المؤقتة بنجاح!",
+  "Attendance Count": "عدد الحضور",
+  "Subject Count": "عدد المواد",
+  "Coming Soon - Pages": "أوشكت المواقع على الإطلاق",
+  "We are launching soon 🚀": "سوف نطلق عما قريبا 🚀",
+  "Our website is opening soon. Please register to get notified when it's ready!": "موقعنا سيفتح قريبا. يرجى التسجيل للحصول على إشعار عندما يكون جاهزا!",
+  "Notify": "أخبرني",
+  "page-misc-launching-soon": "صفحة-متنوعات-إطلاق-قريبا",
+  "page-misc-coming-soon": "صفحة-متنوعات-قادمة-قريبا",
+  "Our feature/website is opening soon.": "ميزتنا/موقعنا سيفتح قريبا.",
+  "Coming Soon": "قادم قريبا",
+  "Total Lectures": "عدد المحاضرات",
+  "Admin Dashboard": "لوحة تحكم المشرف",
+  "Attendance Chart": "رسم بياني للحضور",
+  "Lecture Chart": "رسم بياني للمحاضرات",
+  "Scanned At": "تم المسح في",
+  "An advanced attendance tracking system using QR codes to simplify student attendance management." : "نظام تتبع الحضور المتقدم باستخدام رموز الاستجابة السريعة لتبسيط إدارة حضور الطلاب."
+
+}

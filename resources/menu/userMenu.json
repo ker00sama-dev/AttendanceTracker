@@ -1,0 +1,43 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "icon": "menu-icon tf-icons ti ti-home",
+      "name": "Home",
+      "slug": "home"
+    },
+    {
+      "url": "/attendance",
+      "icon": "menu-icon tf-icons ti ti-checklist",
+      "name": "Attend Rate",
+      "slug": "Attendrate"
+    },
+    {
+      "url": "/lectures",
+      "icon": "menu-icon tf-icons ti ti-library",
+      "name": "Lectures",
+      "slug": "lectures"
+    },
+    {
+      "url": "/subjects",
+      "icon": "menu-icon tf-icons ti ti-books",
+      "name": "Subjects",
+      "slug": "subjects"
+    },
+    {
+      "url": "/user/profile",
+      "icon": "menu-icon tf-icons ti ti-user",
+      "name": "My Profile",
+      "slug": "profile.show"
+    },
+    {
+      "url": "/user/logout",
+      "icon": "menu-icon tf-icons ti ti-logout-2",
+      "name": "Logout",
+      "slug": "user.logout"
+    }
+
+
+
+  ]
+}
