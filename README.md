@@ -25,10 +25,10 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://github.com/ker00sama-dev/AttendanceTracker/blob/main/github-assets/admin.png?raw=true" alt="project-screenshot" width="400" height="400">
-<img src="https://github.com/ker00sama-dev/AttendanceTracker/blob/main/github-assets/logedin.png?raw=true" alt="project-screenshot" width="400" height="400">
-<img src="https://github.com/ker00sama-dev/AttendanceTracker/blob/main/github-assets/admin1.png?raw=true" alt="project-screenshot" width="400" height="400">
-<img src="https://github.com/ker00sama-dev/AttendanceTracker/blob/main/github-assets/admin2.png?raw=true" alt="project-screenshot" width="400" height="400">
+<img src="https://github.com/ker00sama-dev/AttendanceTracker/blob/main/github-assets/login-screen.png?raw=true" alt="project-screenshot" width="100%" >
+<img src="https://github.com/ker00sama-dev/AttendanceTracker/blob/main/github-assets/logedin.png?raw=true" alt="project-screenshot" width="100%" >
+<img src="https://github.com/ker00sama-dev/AttendanceTracker/blob/main/github-assets/admin1.png?raw=true" alt="project-screenshot" width="100%">
+<img src="https://github.com/ker00sama-dev/AttendanceTracker/blob/main/github-assets/admin2.png?raw=true" alt="project-screenshot" width="100%">
 
 
   
