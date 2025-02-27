@@ -7,7 +7,9 @@
 <h1 align="center" id="title">Attendance Tracker</h1>
 
 <p align="center">
-  <img src="https://socialify.git.ci/ker00sama-dev/AttendanceTracker/image?language=1&owner=1&name=1&stargazers=1&theme=Light" alt="project-image">
+<meta property="og:image" content="https://socialify.git.ci/ker00sama-dev/AttendanceTracker/image?language=1&owner=1&name=1&stargazers=1&theme=dark" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="640" />
 </p>
 
 <p id="description">Attendance Tracker is a web application designed to help manage and track attendance for various events and classes. The application is built using a combination of technologies including JavaScript, Blade, PHP, Docker, Hack, and CSS.</p>
